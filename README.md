@@ -14,7 +14,7 @@
 There are a lot of really awesome lorem generators out there (mmm bacon) but I wanted to make one just for us web developers. Includes some of our favorite terms like class, id, href, and more!
 
 ## Screenshot
-![None yet!](./img/screenshot.png)
+[None yet!](./img/screenshot.png)
 
 ## Technologies
 * HTML5
