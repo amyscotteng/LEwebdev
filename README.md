@@ -25,7 +25,7 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 None yet!
 
 ## Features
-List of features ready and TODOs for future development
+
 * Generate up to 10 paragraphs of web dev lorem ipsum
 * Lots of web dev terms from many languages and frameworks (HTML, CSS, JS, pHp, Bootstrap, etc)
 * I may even throw in hexidecimal codes for fun! :)
