@@ -26,7 +26,7 @@ None yet!
 
 ## Features
 
-* Generate up to 10 paragraphs of web dev lorem ipsum
+* Generate paragraphs of web dev lorem ipsum
 * Lots of web dev terms from many languages and frameworks (HTML, CSS, JS, pHp, Bootstrap, etc)
 * I may even throw in hexidecimal codes for fun! :)
 
