@@ -17,8 +17,8 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 [None yet!](./img/screenshot.png)
 
 ## Technologies
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ## Code Examples
