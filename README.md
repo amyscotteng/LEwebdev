@@ -12,6 +12,7 @@
 
 ## General info
 There are a lot of really awesome lorem generators out there (mmm bacon) but I wanted to make one just for us web developers. Includes some of our favorite terms like class, id, href, and more!
+(Yes I named the logo COMPUTOR on purpose and it's not a typo. It's my way of paying tribute to the Yip Yips from Sesame Street. The way they say computer is hilarious! YIPYIPYIPYIPYIP)
 
 ## Screenshot
 [None yet!](./img/screenshot.png)
