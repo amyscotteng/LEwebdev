@@ -16,7 +16,7 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 (Yes I named the logo COMPUTOR on purpose and it's not a typo. It's my way of paying tribute to the Yip Yips from Sesame Street. The way they say computer is hilarious! YIPYIPYIPYIPYIP)
 
 ## Screenshot
-[Screenshot](./images/highfide.png)
+![Example screenshot](./img/screenshot.png)
 
 ## Prototype
 
