@@ -20,7 +20,7 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 
 ## Prototype
 
-<a href="https://xd.adobe.com/view/d0938697-55bc-4d8f-887e-1996e9653310-85c0/">Adobe XD Prototype</a>
+<a href="https://xd.adobe.com/view/d0938697-55bc-4d8f-887e-1996e9653310-85c0/" target="_blank">Adobe XD Prototype</a>
 
 ## Technologies
 * HTML
@@ -37,7 +37,6 @@ None yet!
 * I may even throw in hexidecimal codes for fun! :)
 
 To-do list:
-* Wireframing
 * Prototyping
 * Development
 * User testing
