@@ -4,6 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Screenshot](#screenshot)
+* [Prototype - Adobe XD](#prototype)
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
@@ -15,7 +16,11 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 (Yes I named the logo COMPUTOR on purpose and it's not a typo. It's my way of paying tribute to the Yip Yips from Sesame Street. The way they say computer is hilarious! YIPYIPYIPYIPYIP)
 
 ## Screenshot
-[None yet!](./img/screenshot.png)
+[Screenshot](./images/highfide.png)
+
+## Prototype
+
+<a href="https://xd.adobe.com/view/d0938697-55bc-4d8f-887e-1996e9653310-85c0/">Adobe XD Prototype</a>
 
 ## Technologies
 * HTML
