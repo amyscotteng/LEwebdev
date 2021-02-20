@@ -43,7 +43,7 @@ To-do list:
 
 ## Status
 Project is: 
-Not started yet
+In Progress
 
 ## Inspiration
 Inspried by <a href="https://baconipsum.com/">Bacon Ipsum</a> and <a href="http://www.catipsum.com/">Cat Ipsum<a/>
