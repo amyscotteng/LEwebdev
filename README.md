@@ -24,7 +24,7 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 
 ## Technologies
 * HTML
-* CSS
+* CSS(Tailwind CSS)
 * JavaScript
 
 ## Code Examples
