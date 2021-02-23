@@ -16,11 +16,11 @@ There are a lot of really awesome lorem generators out there (mmm bacon) but I w
 (Yes I named the logo COMPUTOR on purpose and it's not a typo. It's my way of paying tribute to the Yip Yips from Sesame Street. The way they say computer is hilarious! YIPYIPYIPYIPYIP)
 
 ## Screenshot
-![Example screenshot](./src/images/highfide.png)
+![Screenshot](./src/images/highfide.png)
 
 ## Prototype
 
-<a href="https://xd.adobe.com/view/d0938697-55bc-4d8f-887e-1996e9653310-85c0/" target="_blank">Adobe XD Prototype</a>
+<a href="https://xd.adobe.com/view/906f8198-46af-4b4c-ba84-2f60ac39eeb6-c53c/" target="_blank">Adobe XD Prototype</a>
 
 ## Technologies
 * HTML
